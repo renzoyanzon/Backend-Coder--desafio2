@@ -1,0 +1,19 @@
+{
+  "name": "servidoresweb",
+  "version": "1.0.0",
+  "description": "curso de react clase 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renzoyanzon/clase6_servidoresWeb.git"
+  },
+  "author": "Renzo Y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renzoyanzon/clase6_servidoresWeb/issues"
+  },
+  "homepage": "https://github.com/renzoyanzon/clase6_servidoresWeb#readme"
+}
