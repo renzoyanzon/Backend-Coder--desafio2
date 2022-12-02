@@ -4,7 +4,9 @@
   "description": "curso de react clase 6",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "start:dev": "nodemon main.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/renzoyanzon/clase6_servidoresWeb/issues"
   },
-  "homepage": "https://github.com/renzoyanzon/clase6_servidoresWeb#readme"
+  "homepage": "https://github.com/renzoyanzon/clase6_servidoresWeb#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
 }
