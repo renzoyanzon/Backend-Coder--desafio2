@@ -3,7 +3,7 @@ const fs = require('fs');
 class Contenedor {
     constructor (_nameFile){
         this.ruta= `${_nameFile}.txt`
-        //this.createFile();
+        
     }
 
     async save (_obj){
